@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuhan Wang</title>
-    <link>https://johann.wang/</link>
-      <atom:link href="https://johann.wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://springcty.github.io/</link>
+      <atom:link href="https://springcty.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuhan Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://johann.wang/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://springcty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yuhan Wang</title>
-      <link>https://johann.wang/</link>
+      <link>https://springcty.github.io/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>https://johann.wang/baks_home/_example/python/</link>
+      <link>https://springcty.github.io/baks_home/_example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/baks_home/_example/python/</guid>
+      <guid>https://springcty.github.io/baks_home/_example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://johann.wang/baks_home/_example/visualization/</link>
+      <link>https://springcty.github.io/baks_home/_example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/baks_home/_example/visualization/</guid>
+      <guid>https://springcty.github.io/baks_home/_example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>https://johann.wang/baks_home/_example/stats/</link>
+      <link>https://springcty.github.io/baks_home/_example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/baks_home/_example/stats/</guid>
+      <guid>https://springcty.github.io/baks_home/_example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -109,41 +109,41 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Projects</title>
-      <link>https://johann.wang/baks_home/projects/</link>
+      <link>https://springcty.github.io/baks_home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/baks_home/projects/</guid>
+      <guid>https://springcty.github.io/baks_home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://johann.wang/baks_home/talks/</link>
+      <link>https://springcty.github.io/baks_home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/baks_home/talks/</guid>
+      <guid>https://springcty.github.io/baks_home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://johann.wang/baks_home/featured/</link>
+      <link>https://springcty.github.io/baks_home/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/baks_home/featured/</guid>
+      <guid>https://springcty.github.io/baks_home/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Popular Topics</title>
-      <link>https://johann.wang/baks_home/tags/</link>
+      <link>https://springcty.github.io/baks_home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/baks_home/tags/</guid>
+      <guid>https://springcty.github.io/baks_home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://johann.wang/talk/example-talk/</link>
+      <link>https://springcty.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://johann.wang/talk/example-talk/</guid>
+      <guid>https://springcty.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -161,9 +161,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Bilevel Programming Derivatives of LDS-GNN</title>
-      <link>https://johann.wang/post/lds-derivation/</link>
+      <link>https://springcty.github.io/post/lds-derivation/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/post/lds-derivation/</guid>
+      <guid>https://springcty.github.io/post/lds-derivation/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Now we have a bilevel programming problem:&lt;/p&gt;
 &lt;p&gt;$$\min_{\theta, w_{\theta}} F(w_{\theta},\theta)\mathrm{\ such\ that\ } w_{\theta}\in \arg \min_{w} L(w, \theta) \tag{1}$$&lt;/p&gt;
@@ -224,25 +224,25 @@ $$&lt;/p&gt;
     
     <item>
       <title> HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping</title>
-      <link>https://johann.wang/publication/hififace/</link>
+      <link>https://springcty.github.io/publication/hififace/</link>
       <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/publication/hififace/</guid>
+      <guid>https://springcty.github.io/publication/hififace/</guid>
       <description></description>
     </item>
     
     <item>
       <title> CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition</title>
-      <link>https://johann.wang/publication/curricularface/</link>
+      <link>https://springcty.github.io/publication/curricularface/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/publication/curricularface/</guid>
+      <guid>https://springcty.github.io/publication/curricularface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://johann.wang/slides/example/</link>
+      <link>https://springcty.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/slides/example/</guid>
+      <guid>https://springcty.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -369,9 +369,9 @@ Three
     
     <item>
       <title>Example Project</title>
-      <link>https://johann.wang/project/example/</link>
+      <link>https://springcty.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/project/example/</guid>
+      <guid>https://springcty.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -382,9 +382,9 @@ Three
     
     <item>
       <title></title>
-      <link>https://johann.wang/admin/config.yml</link>
+      <link>https://springcty.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johann.wang/admin/config.yml</guid>
+      <guid>https://springcty.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
