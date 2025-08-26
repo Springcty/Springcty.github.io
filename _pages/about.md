@@ -55,7 +55,7 @@ I also had wonderful research experiences in
 
 **Tianyu Cao\***, Neel Bhandari\*, Akhila Yerukola, Akari Asai, Maarten Sap
 
-[paper](https://arxiv.org/pdf/2504.08231) | [code](https://github.com/Springcty/RAG-fragility-to-linguistic-variation)
+[paper](https://arxiv.org/pdf/2504.08231) \| [code](https://github.com/Springcty/RAG-fragility-to-linguistic-variation)
 
 Our research reveals that linguistic variations significantly impact both retrieval and generation stages. RAG systems exhibit greater sensitivity to such variations compared to LLM-only generations, highlighting their vulnerability to error propagation due to linguistic shifts.
 </div>
@@ -68,7 +68,7 @@ Our research reveals that linguistic variations significantly impact both retrie
 
 Yixiao Zeng, **Tianyu Cao**, Danqing Wang, Xinran Zhao, Zimeng Qiu, Morteza Ziyadi, Tongshuang Wu, Lei Li
 
-[paper](https://arxiv.org/pdf/2506.00789) | [code](https://github.com/LeiLiLab/RARE)
+[paper](https://arxiv.org/pdf/2506.00789) \| [code](https://github.com/LeiLiLab/RARE)
 
 RARE is a unified framework designed to automatically generate synthetic, dynamic, and time-sensitive corpora for testing Retrieval-Augmented Generation (RAG) systems using domain-specific unstructured datasets.
 </div>
@@ -81,7 +81,7 @@ RARE is a unified framework designed to automatically generate synthetic, dynami
 
 **Tianyu Cao**, Natraj Raman, Danial Dervovic, Chenhao Tan
 
-[paper](https://arxiv.org/pdf/2404.06162) | [code](https://github.com/ChicagoHAI/characterizing-multimodal-long-form-summarization)
+[paper](https://arxiv.org/pdf/2404.06162) \| [code](https://github.com/ChicagoHAI/characterizing-multimodal-long-form-summarization)
 
 Developed an evaluation framework for LLM-generated multimodal long-form financial report summaries, integrating textual and numeric analysis.
 </div>
@@ -94,7 +94,7 @@ Developed an evaluation framework for LLM-generated multimodal long-form financi
 
 Junru Chen, **Tianyu Cao**, Jing Xu, Jiahe Li, Zhilong Chen, Tao Xiao, Yang Yang
 
-[paper](https://arxiv.org/pdf/2408.00041) | [code](https://github.com/MrNobodyCali/Con4m)
+[paper](https://arxiv.org/pdf/2408.00041) \| [code](https://github.com/MrNobodyCali/Con4m)
 
 Con4m is a consistency learning framework, which effectively utilizes contextual information more conducive to discriminating consecutive segments in segmented TSC tasks, while harmonizing inconsistent boundary labels for training.
 </div>
