@@ -36,7 +36,7 @@ I also had wonderful research experiences in
 
 **I'm expected to graduate in December 2025 and am seeking full-time opportunities on MLE/RS in 2026!**
 
-**Here is my <a target="_blank"  href="_pages/includes/Tianyu(Tiya)_Cao_Resume.pdf">resume</a> for your reference, please feel free to reach out!**
+**Here is my <a target="_blank"  href="_pages/includes/Tianyu(Tiya)_Cao_Resume_homepage_version.pdf">resume</a> for your reference, please feel free to reach out!**
 
 # 🔥 News
 - *2025.05*: &nbsp;I start Machine Learning Scientist Internship at TikTok Inc.
