@@ -22,7 +22,7 @@ in the <a href="https://miis.cs.cmu.edu/" target="_blank" rel="noopener">Master 
 at <a href="https://www.lti.cs.cmu.edu/" target="_blank" rel="noopener">Language Technologies Institute (LTI)</a>
 <a href="https://www.cs.cmu.edu/" target="_blank" rel="noopener">School of Computer Science (SCS)</a>,
 <a href="https://www.cmu.edu/" target="_blank" rel="noopener">Carnegie Mellon University</a>.
-I conduct research with Prof. Lei Li and Prof. Maarten Sap on Retrieval-Augmented Generation.
+I conduct research with [Prof. Lei Li](https://lileicc.github.io/) and [Prof. Maarten Sap](https://maartensap.com/) on Retrieval-Augmented Generation.
 
 In summer 2025, I worked at TikTok Inc. as a Machine Learning Scientist Intern, exploring reinforcement learning for multimodal video content understanding.
 
@@ -108,7 +108,7 @@ Con4m is a consistency learning framework, which effectively utilizes contextual
 
 # 📖 Educations
 - *2024.08 - 2025.12*, Master, Language Technologies Institute (LTI), Carnegie Mellon University
-- *2020.09 - 2024.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy
+- *2020.09 - 2024.06*, Undergraduate, Computer Science and Technology, Chu Kochen Honors College, Zhejiang Univeristy
 
 
 <!-- # 💬 Invited Talks
