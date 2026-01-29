@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Cao"
-description              : "Machine Learning Engineer @ TikTok | M.S. Student@CMU LTI"
+description              : "Machine Learning Engineer at TikTok | M.S. Degree, CMU LTI"
 repository               : "Springcty/Springcty.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianyu Cao (曹田雨)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Master Degree at Language Technologies Institute, Carnegie Mellon University | Bachelor Degree at Chu Kochen Honors College, Zhejiang University"
+  bio              : "Machine Learning Engineer at TikTok. M.S. in NLP, Language Technologies Institute, Carnegie Mellon University. B.Eng. from Chu Kochen Honors College, Zhejiang University."
   location         : "San Jose, CA"
   employer         : "TikTok"
   position         : "Machine Learning Engineer"
