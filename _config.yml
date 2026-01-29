@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianyu (Tiya) Cao"
-description              : "M.S. student at Language Technology Institute, Carnegie Mellon University"
+title                    : "Tianyu Cao"
+description              : "Machine Learning Engineer @ TikTok | M.S. Student@CMU LTI"
 repository               : "Springcty/Springcty.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,14 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyu (Tiya) Cao (曹田雨)"
+  name             : "Tianyu Cao (曹田雨)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "LTI, CMU"
-  location         : "Pittsburgh, PA"
-  employer         :
+  bio              : "Master Degree at Language Technologies Institute, Carnegie Mellon University | Bachelor Degree at Chu Kochen Honors College, Zhejiang University"
+  location         : "San Jose, CA"
+  employer         : "TikTok"
+  position         : "Machine Learning Engineer"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=X9KJLt8AAAAJ"
-  email            : "tianyuca@cs.cmu.edu"
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
