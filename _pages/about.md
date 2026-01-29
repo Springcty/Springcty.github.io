@@ -54,7 +54,7 @@ I also had wonderful research experiences in
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/rag_ling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2026 (main)</div><img src='images/rag_ling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Out of Style: RAG's Fragility to Linguistic Variation](https://arxiv.org/abs/2504.08231)
